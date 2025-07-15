@@ -84,9 +84,3 @@ Contributions are welcome! Please read the [contribution guide](https://laravel.
 ## 🛡️ License
 
 This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
----
-
-## 📬 Contact
-
-For questions or support, please open an issue or contact [sayeem-ar](mailto:sayeem.ar@example.com).
